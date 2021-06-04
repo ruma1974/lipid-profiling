@@ -12,4 +12,17 @@ git config --global user.email "runem2009@gmail.com"
 
 git remote add origin https://github.com/ruma1974/lipid-profiling
 
-git push -u origin main
+git push -u origin master
+
+git commit -m "Now with commit"
+
+git push
+
+
+git status
+
+
+git diff
+
+
+
