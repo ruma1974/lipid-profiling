@@ -1,0 +1,15 @@
+# add all files
+git add .
+
+
+git add .
+
+git rm --cached <file>
+
+
+git config --global user.email "runem2009@gmail.com"
+
+
+git remote add origin https://github.com/ruma1974/lipid-profiling
+
+git push -u origin main
