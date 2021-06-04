@@ -25,4 +25,6 @@ git status
 git diff
 
 
+/media/rune/joachime/Important/Projects/Winchil/Rpackage
+
 
